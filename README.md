@@ -1,4 +1,4 @@
-# Warehouse Stock Management App
+# Warehouse Stock Management App with React Native
 
 A mobile application built with React Native to manage warehouse inventory. The app allows warehouse staff to add, edit, and delete items, view stock quantities, and manage pricing efficiently.
 
