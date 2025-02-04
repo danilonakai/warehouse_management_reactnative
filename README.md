@@ -78,7 +78,6 @@ To get started with this app, follow these steps:
      ```bash
      npm start
      ```
-    ```
 
 Your app should now be running, with both the frontend and backend services started. The frontend will launch in your browser or emulator, while the backend will be running on your local server.
 
