@@ -59,7 +59,7 @@ To get started with this app, follow these steps:
 
     - Navigate to the backend folder:
       ```bash
-      cd ../backend
+      cd ../../backend
       ```
 
     - Install the dependencies:
