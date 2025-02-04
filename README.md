@@ -27,7 +27,7 @@ A mobile application built with React Native to manage warehouse inventory. The 
 
 ## UI Overview
 
-![WhatsApp Image 2025-02-04 at 16 54 26](https://github.com/user-attachments/assets/24cef8bc-975d-4a02-a623-98b5dd54c59b)
+![WhatsApp Image 2025-02-04 at 16 54 26](https://github.com/user-attachments/assets/1ca02991-42b6-45b5-b147-3504fb272227)
 
 ## Installation
 
