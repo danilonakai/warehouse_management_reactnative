@@ -40,7 +40,7 @@ To get started with this app, follow these steps:
 
 2. Enter the project folder:
     ```bash
-    cd warehouse-stock-management
+    cd warehouse_management_reactnative
     ```
 
 3. Install dependencies for the **frontend**:
