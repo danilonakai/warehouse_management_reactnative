@@ -69,7 +69,7 @@ To get started with this app, follow these steps:
 
 5. Run the **frontend** app on your device or emulator:
     ```bash
-    cd ../frontend
+    cd ../frontend/CollectionApp
     npm start
     ```
 
