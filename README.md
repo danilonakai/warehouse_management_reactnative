@@ -47,6 +47,7 @@ To get started with this app, follow these steps:
 1. Clone the repository:
     ```bash
     git clone https://github.com/danilonakai/warehouse_management_reactnative.git
+    cd warehouse_management_reactnative
     ```
 
 2. **Backend Setup**:
