@@ -35,7 +35,7 @@ To get started with this app, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/warehouse-stock-management.git
+    git clone https://github.com/danilonakai/warehouse_management_reactnative.git
     ```
 
 2. Enter the project folder:
