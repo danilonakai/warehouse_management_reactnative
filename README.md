@@ -75,7 +75,7 @@ To get started with this app, follow these steps:
 
 6. Run the **backend** server:
     ```bash
-    cd ../backend
+    cd warehouse_management_reactnative/backend
     npm start
     ```
 
