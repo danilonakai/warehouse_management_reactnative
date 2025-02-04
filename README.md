@@ -27,16 +27,7 @@ A mobile application built with React Native to manage warehouse inventory. The 
 
 ## UI Overview
 
-When items are added, they appear in a list with the following columns:
-
-| ID  | Name        | Description     | Qty | Price | Actions        |
-| --- | ----------- | --------------- | --- | ----- | -------------- |
-| 1   | Item Name 1 | Item Description 1 | 10  | $25.00 | [Edit] [Delete] |
-| 2   | Item Name 2 | Item Description 2 | 5   | $12.50 | [Edit] [Delete] |
-| ... | ...         | ...             | ... | ...   | ...            |
-
-- **Edit:** Modify the item details.
-- **Delete:** Remove the item from the inventory.
+![WhatsApp Image 2025-02-04 at 16 54 26](https://github.com/user-attachments/assets/24cef8bc-975d-4a02-a623-98b5dd54c59b)
 
 ## Installation
 
