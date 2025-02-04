@@ -47,7 +47,7 @@ To get started with this app, follow these steps:
 
     - Navigate to the frontend folder:
       ```bash
-      cd frontend
+      cd frontend/CollectionApp
       ```
 
     - Install the dependencies:
