@@ -34,17 +34,53 @@ A mobile application built with React Native to manage warehouse inventory. The 
 To get started with this app, follow these steps:
 
 1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/warehouse-stock-management.git
+    ```
 
-2. Install dependencies:
+2. Enter the project folder:
     ```bash
     cd warehouse-stock-management
-    npm install
     ```
-    
-3. Run the app on your device or emulator:
+
+3. Install dependencies for the **frontend**:
+
+    - Navigate to the frontend folder:
+      ```bash
+      cd frontend
+      ```
+
+    - Install the dependencies:
+      ```bash
+      npm install
+      ```
+
+4. Install dependencies for the **backend**:
+
+    - Navigate to the backend folder:
+      ```bash
+      cd ../backend
+      ```
+
+    - Install the dependencies:
+      ```bash
+      npm install
+      ```
+
+5. Run the **frontend** app on your device or emulator:
     ```bash
+    cd ../frontend
     npm start
     ```
+
+6. Run the **backend** server:
+    ```bash
+    cd ../backend
+    npm start
+    ```
+
+Your app should now be running, with both the frontend and backend services started. The frontend will launch in your browser or emulator, while the backend will be running on your local server.
+
 
 ## License
 
